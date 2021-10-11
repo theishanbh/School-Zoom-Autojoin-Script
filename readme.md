@@ -1,0 +1,1 @@
+This project enables toautomatically joins zoom meetings in signed in Zoom Clients.
